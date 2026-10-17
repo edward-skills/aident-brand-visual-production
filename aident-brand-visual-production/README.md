@@ -1,5 +1,8 @@
 # aident-brand-visual-production
 
+> **Current use / 当前授权：Invocation-only.** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。Third-party/font rights and historical MIT grants are retained. [License](LICENSE.md) · [Agent setup, Muse AI & Grok Bot](references/agent-compatibility.md) · [Version boundary](references/licensing-history.md)
+
+
 Agent Skill that **produces** marketing image kits and video production kits for brands that lack finished visuals. It feeds **[aident-brand-marketing-pack](../aident-brand-marketing-pack)** (copy, taxonomy, quality, cloud document + durable library).
 
 | | Marketing pack | This skill |
@@ -86,4 +89,4 @@ python scripts/validate_package.py
 
 ## License
 
-MIT — see `LICENSE.md`. Marks and client work: `NOTICE.md`.
+Invocation-only — see `LICENSE.md` and `references/licensing-history.md`. Marks and client work: `NOTICE.md`.

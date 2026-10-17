@@ -4,7 +4,7 @@
 
 Publishing or sharing this skill package for discovery, documentation, or agent installation does **not** grant a general open-source license to Aident product names, Aident logos, internal playbooks, or any client brand materials.
 
-Unless a file carries its own explicit license (for example an OFL font), all rights remain reserved by Aident and/or the respective owners.
+First-party Skill materials follow LICENSE.md; separately licensed fonts and files, marks and client assets retain their original rights.
 
 ## Aident reserved
 
@@ -29,3 +29,7 @@ Marketing images, storyboards, shot lists, and video exports generated for a use
 ## No warranty
 
 Provided as-is for agent-assisted marketing visual production. No warranty of fitness for trademark registration, regulated claims, advertising clearance, or platform policy compliance.
+
+## Current Skill license
+
+See LICENSE.md for invocation-only terms and references/licensing-history.md for historical permissions.

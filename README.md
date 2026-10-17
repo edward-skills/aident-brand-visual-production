@@ -1,6 +1,9 @@
 # Aident Brand Visual Production
 
-An open, cross-agent Skill that renders marketing image kits and video production kits from a frozen [aident-brand-marketing-pack](https://github.com/Edward-J-create/aident-brand-marketing-pack) handoff or an equivalent visual/video brief.
+> **Current use / 当前授权：Invocation-only.** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。Third-party/font rights and historical MIT grants are retained. [License](aident-brand-visual-production/LICENSE.md) · [Agent setup, Muse AI & Grok Bot](aident-brand-visual-production/references/agent-compatibility.md) · [Version boundary](aident-brand-visual-production/references/licensing-history.md)
+
+
+An invocation-only, cross-agent Skill that renders marketing image kits and video production kits from a frozen [aident-brand-marketing-pack](https://github.com/Edward-J-create/aident-brand-marketing-pack) handoff or an equivalent visual/video brief.
 
 It fills packaged HTML templates, places supplied logos, and exports inspectable PNG/JPEG/SVG. Storyboards and shot lists are production inputs. An MP4 or MOV is produced only when encode is separately authorized. This Skill does not write pack copy or the cloud marketing document.
 

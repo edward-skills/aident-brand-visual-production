@@ -1,5 +1,8 @@
 # aident-brand-visual-production
 
+> **Current use / 当前授权：Invocation-only.** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。Third-party/font rights and historical MIT grants are retained. [License](LICENSE.md) · [Agent setup, Muse AI & Grok Bot](references/agent-compatibility.md) · [Version boundary](references/licensing-history.md)
+
+
 用于在缺少品牌视觉素材时，**生产**营销图片套件与视频制作套件的 Agent Skill。上游对接 **aident-brand-marketing-pack**（文案、分类、质量门禁、云文档与成片库）。
 
 HTML 布局模板 + 可替换 token/插槽 的**封装粒度**对齐 Edward 的 **aident-ppt-skill**。尺寸和版式以本 Skill 已打包的模板为准。设计源文件不随包发布。

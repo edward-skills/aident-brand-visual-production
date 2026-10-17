@@ -1,13 +1,19 @@
 ---
 name: aident-brand-visual-production
 description: Produce marketing visual result files and video production kits that feed aident-brand-marketing-pack. Create posters, social avatars, banners, feature posters, OG/social cards, and video inputs (storyboards, shot lists, poster frames, motion assets) and, when authorized, final MP4/MOV exports—using the packaged size kit, typography, and HTML layout templates. Use when the user lacks brand visual/video assets, asks to render or export campaign creatives from a pack handoff or visual/video brief, mentions storyboards, shot lists, social avatar/banner, feature poster, or needs PNG/JPEG/SVG/MP4/MOV originals for the marketing pack. Do not use for writing pack copy or cloud pack documents (use aident-brand-marketing-pack); do not use for full brand-identity systems/tokens/brand books (use aident-brand-design-skill); do not use for generic long-form video toolchains unrelated to pack handoffs (use hyperframes-general-video or host video tools). Do not look up, link, or redistribute private design source files.
-license: MIT
+license: Proprietary. LICENSE.md contains the invocation-only terms.
 metadata:
   version: 0.4.2
   author: Edward-J-create
 ---
 
+
 # Aident Brand Visual Production
+
+For host setup, Meta Muse AI / Grok Bot capability boundaries and current usage rights, see [cross-agent use](references/agent-compatibility.md). Follow the production workflow below unchanged.
+
+
+
 
 Produce **finished marketing media** (and video production inputs) from a frozen pack handoff or equivalent brief. Typography, frame sizes, and layout structure come from the packaged templates in this skill—not freeform improvisation, and not from a private design file.
 
