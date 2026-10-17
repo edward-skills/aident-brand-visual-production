@@ -1,11 +1,13 @@
 # Aident Brand Visual Production
 
+[All Skills / 全部 Skills](https://github.com/edward-skills)
+
 > **Current use: invocation-only.** Install and invoke for your own or client projects; use the resulting outputs. Redistribution, resale and publication of modified Skill packages are not authorized. Historical permissions and separately licensed materials retain their terms.
 >
 > **当前授权：仅调用使用。** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。历史授权与单独许可的素材条款继续有效。 [License](aident-brand-visual-production/LICENSE.md) · [Agent setup, Muse AI & Grok Bot](aident-brand-visual-production/references/agent-compatibility.md) · [Version boundary](aident-brand-visual-production/references/licensing-history.md)
 
 
-An invocation-only, cross-agent Skill that renders marketing image kits and video production kits from a frozen [aident-brand-marketing-pack](https://github.com/Edward-J-create/aident-brand-marketing-pack) handoff or an equivalent visual/video brief.
+An invocation-only, cross-agent Skill that renders marketing image kits and video production kits from a frozen [aident-brand-marketing-pack](https://github.com/edward-skills/aident-brand-marketing-pack) handoff or an equivalent visual/video brief.
 
 It fills packaged HTML templates, places supplied logos, and exports inspectable PNG/JPEG/SVG. Storyboards and shot lists are production inputs. An MP4 or MOV is produced only when encode is separately authorized. This Skill does not write pack copy or the cloud marketing document.
 
@@ -26,14 +28,14 @@ Chinese poster frames (`*-zh`) share the English geometry and ship with Chinese 
 The portable package is [`aident-brand-visual-production/`](aident-brand-visual-production/). It follows the open filesystem Agent Skills layout and is not tied to Codex or one model.
 
 ```bash
-npx skills add Edward-J-create/aident-brand-visual-production \
+npx skills add edward-skills/aident-brand-visual-production \
   --skill aident-brand-visual-production
 ```
 
 Install for the agents this machine already uses:
 
 ```bash
-npx skills add Edward-J-create/aident-brand-visual-production \
+npx skills add edward-skills/aident-brand-visual-production \
   --skill aident-brand-visual-production \
   --global \
   --agent codex claude-code cursor opencode \

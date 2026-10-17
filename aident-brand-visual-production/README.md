@@ -5,7 +5,7 @@
 > **当前授权：仅调用使用。** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。历史授权与单独许可的素材条款继续有效。 [License](LICENSE.md) · [Agent setup, Muse AI & Grok Bot](references/agent-compatibility.md) · [Version boundary](references/licensing-history.md)
 
 
-Agent Skill that **produces** marketing image kits and video production kits for brands that lack finished visuals. It feeds **[aident-brand-marketing-pack](https://github.com/Edward-J-create/aident-brand-marketing-pack)** (copy, taxonomy, quality, cloud document + durable library).
+Agent Skill that **produces** marketing image kits and video production kits for brands that lack finished visuals. It feeds **[aident-brand-marketing-pack](https://github.com/edward-skills/aident-brand-marketing-pack)** (copy, taxonomy, quality, cloud document + durable library).
 
 | | Marketing pack | This skill |
 |---|---|---|
@@ -20,7 +20,7 @@ Packaging granularity (HTML layout templates + editable tokens/slots) is aligned
 The portable package is this directory (`SKILL.md` plus `assets/`, `references/`, `scripts/`, and `examples/`). It is not tied to one agent. Copy the whole directory, not only `SKILL.md`.
 
 ```bash
-npx skills add Edward-J-create/aident-brand-visual-production \
+npx skills add edward-skills/aident-brand-visual-production \
   --skill aident-brand-visual-production \
   --global \
   --agent codex claude-code cursor opencode \
