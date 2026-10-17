@@ -45,4 +45,4 @@ FROM THEIR USE. Other rights are reserved unless separately granted.
 6. Version boundary for aident-brand-visual-production
 This policy applies to revisions after 12c065c92242eb63b494ac00e35bb314de0b9539
 from 2026-10-17 onward, unless a later revision expressly states otherwise.
-Earlier revisions at or before 12c065c92242eb63b494ac00e35bb314de0b9539 were published with an MIT license. This update does not withdraw those historical grants; their original terms remain recorded in licenses/HISTORICAL-MIT.md and Git history.
+The baseline revision 12c065c92242eb63b494ac00e35bb314de0b9539 carried an MIT license; earlier revisions retain the terms actually supplied with them. This update does not withdraw those historical grants; their original terms remain recorded in licenses/HISTORICAL-MIT.md and Git history.
